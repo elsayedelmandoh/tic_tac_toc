@@ -2,9 +2,17 @@
 
 Welcome to the 'Tic Tac Toe' repository! This repository contains a Python implementation of the classic Tic Tac Toe game, playable on the command line interface.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [Author](#author)
+
 ## Overview
 
-This project involves building a Tic Tac Toe game using Python without a graphical user interface (GUI). The game is played on the command line, where players enter their moves as text inputs. The goal is to get three symbols in a row, either horizontally, vertically, or diagonally.
+This project involves building a Tic Tac Toe game where players enter their moves as text inputs. The goal is to get three symbols in a row, either horizontally, vertically, or diagonally.
 
 ## Features
 
@@ -27,10 +35,14 @@ This project involves building a Tic Tac Toe game using Python without a graphic
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback. 
+
+[![GitHub watchers](https://img.shields.io/github/watchers/elsayedelmandoh/tic_tac_toc.svg?style=social&label=Watch)](https://GitHub.com/elsayedelmandoh/tic_tac_toc/watchers/?WT.mc_id=academic-105485-koreyst)
+[![GitHub forks](https://img.shields.io/github/forks/elsayedelmandoh/tic_tac_toc.svg?style=social&label=Fork)](https://GitHub.com/elsayedelmandoh/tic_tac_toc/network/?WT.mc_id=academic-105485-koreyst)
+[![GitHub stars](https://img.shields.io/github/stars/elsayedelmandoh/tic_tac_toc.svg?style=social&label=Star)](https://GitHub.com/elsayedelmandoh/tic_tac_toc/stargazers/?WT.mc_id=academic-105485-koreyst)
 
 ## Author
 
-This repository is maintained by Elsayed Elmandoh, an AI Engineer. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter](https://twitter.com/elsayedelmandoo) for updates and discussions related to programming and AI.
+This repository is maintained by Elsayed Elmandoh, an AI Engineer. You can connect with Elsayed on [LinkedIn and Twitter/X](https://linktr.ee/elsayedelmandoh) for updates and discussions related to Machine learning, deep learning and NLP.
 
-Happy gaming!
+Happy coding!
